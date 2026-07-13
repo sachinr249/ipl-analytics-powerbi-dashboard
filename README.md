@@ -4,14 +4,14 @@
 - The dashboard transforms over 260,000+ deliveries and 1,095 IPL matches into an intuitive analytics experience for cricket enthusiasts and decision-makers.
 
 ## Screenshots
-- ![Landing Page](images/IPL%20Dashboard/Screenshot%202026-07-13%20165017.png)
-- ![Executive Page](images/IPL%20Dashboard/Screenshot%202026-07-13%20165104.png)
-- ![Team Analytics](images/IPL%20Dashboard/Screenshot%202026-07-13%20165120.png)
-- ![Batter Analytics](images/IPL%20Dashboard/Screenshot%202026-07-13%20165202.png)
-- ![Bowler Analytics](images/IPL%20Dashboard/Screenshot%202026-07-13%20165219.png)
-- ![Match Overview](images/IPL%20Dashboard/Screenshot%202026-07-13%20165236.png)
-- ![Venue Analytics](images/IPL%20Dashboard/Screenshot%202026-07-13%20165316.png)
-- ![Records & Milestones](images/IPL%20Dashboard/Screenshot%202026-07-13%20165334.png)
+- ![Landing Page](images%20IPL%20Dashboard/Screenshot%202026-07-13%20165017.png)
+- ![Executive Page](images%20IPL%20Dashboard/Screenshot%202026-07-13%20165104.png)
+- ![Team Analytics](images%20IPL%20Dashboard/Screenshot%202026-07-13%20165120.png)
+- ![Batter Analytics](images%20IPL%20Dashboard/Screenshot%202026-07-13%20165202.png)
+- ![Bowler Analytics](images%20IPL%20Dashboard/Screenshot%202026-07-13%20165219.png)
+- ![Match Overview](images%20IPL%20Dashboard/Screenshot%202026-07-13%20165236.png)
+- ![Venue Analytics](images%20IPL%20Dashboard/Screenshot%202026-07-13%20165316.png)
+- ![Records & Milestones](images%20IPL%20Dashboard/Screenshot%202026-07-13%20165334.png)
 
 ## Dashboard Features
 ### Executive Overview
