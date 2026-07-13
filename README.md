@@ -3,14 +3,27 @@
 
 - The dashboard transforms over 260,000+ deliveries and 1,095 IPL matches into an intuitive analytics experience for cricket enthusiasts and decision-makers.
 
+## Live Dashboard
+
+🔗 Power BI Dashboard:
+https://app.powerbi.com/links/ttq1uir4mN?ctid=014cc2fa-5014-43e5-bbdd-0cbe505529c3&pbi_source=linkShare
+
 ## Screenshots
+### Landing Page
 - ![Landing Page](images%20IPL%20Dashboard/Screenshot%202026-07-13%20165017.png)
+### Executive Page
 - ![Executive Page](images%20IPL%20Dashboard/Screenshot%202026-07-13%20165104.png)
+### Team Analytics
 - ![Team Analytics](images%20IPL%20Dashboard/Screenshot%202026-07-13%20165120.png)
+### Batter Analytics
 - ![Batter Analytics](images%20IPL%20Dashboard/Screenshot%202026-07-13%20165202.png)
+### Bowler Analytics
 - ![Bowler Analytics](images%20IPL%20Dashboard/Screenshot%202026-07-13%20165219.png)
+### Match Overview
 - ![Match Overview](images%20IPL%20Dashboard/Screenshot%202026-07-13%20165236.png)
+### Venue Analytics
 - ![Venue Analytics](images%20IPL%20Dashboard/Screenshot%202026-07-13%20165316.png)
+### Records & Milestones
 - ![Records & Milestones](images%20IPL%20Dashboard/Screenshot%202026-07-13%20165334.png)
 
 ## Dashboard Features
@@ -61,7 +74,12 @@
 - Conditional Formatting
 - Interactive Slicers
 
-## Live Dashboard
+## Skills Demonstrated
+- Data Cleaning
+- Data Modeling
+- DAX
+- Data Visualization
+- Business Intelligence
+- Dashboard Design
+- Storytelling with Data
 
-🔗 Power BI Dashboard:
-https://app.powerbi.com/links/ttq1uir4mN?ctid=014cc2fa-5014-43e5-bbdd-0cbe505529c3&pbi_source=linkShare
